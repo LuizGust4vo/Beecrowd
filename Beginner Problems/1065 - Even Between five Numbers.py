@@ -1,4 +1,3 @@
-v = []
 pares = 0
 
 for cont in range(5):
